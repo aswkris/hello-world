@@ -1,1 +1,5 @@
 Test
+
+Install GIT - https://www.computerhope.com/issues/ch001927.htm
+Install Eclipse
+Setup Git in Eclipse - https://www.vogella.com/tutorials/EclipseGit/article.html
